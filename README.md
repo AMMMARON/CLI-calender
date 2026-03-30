@@ -4,7 +4,7 @@ A terminal-based calendar application written in C++ that allows you to view mon
 
 ---
 
-## Features
+## Features areee
 
 - **Monthly Calendar View** — Navigate between months with highlighted event days
 - **Event Management** — Add, view, and delete events with titles and descriptions
