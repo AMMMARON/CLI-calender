@@ -74,7 +74,7 @@ void addEvent() {
     cout << "Enter date (day month year): ";
     cin >> e.day >> e.month >> e.year;
     cin.ignore();
-    cout << "Enter event title: ";
+    cout << "Enter the event title: ";
     getline(cin, e.title);
     cout << "Enter description (optional): ";
     getline(cin, e.description);
