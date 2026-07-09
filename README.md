@@ -1,4 +1,4 @@
-# 📅 C++ Calendar App
+# 📅 C++ Calendar App from T
 
 A terminal-based calendar application written in C++ that allows you to view monthly calendars, manage events, and search through your schedule.
 
