@@ -1,10 +1,10 @@
-# 📅 C++ Calendar App from T
+# 📅 C++ Calendar App
 
 A terminal-based calendar application written in C++ that allows you to view monthly calendars, manage events, and search through your schedule.
 
 ---
 
-## Features areee
+## Features
 
 - **Monthly Calendar View** — Navigate between months with highlighted event days
 - **Event Management** — Add, view, and delete events with titles and descriptions
