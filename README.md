@@ -161,22 +161,7 @@ The first day of each month is calculated using **Zeller's Congruence**, a mathe
 
 ---
 
-## Limitations
 
-- **No persistence** — Events are stored in memory only and are lost when the app exits
-- **No input validation** — Invalid dates (e.g., day 32) are not rejected
-- **Single session** — No file save/load functionality
-- **Terminal colors** — Color highlighting uses ANSI escape codes and may not display correctly on all terminals (e.g., Windows CMD without ANSI support)
-
----
-
-## Possible Improvements
-
-- Save and load events from a file (CSV or JSON)
-- Input validation for dates and month ranges
-- Recurring events support
-- Cross-platform color support
-- Weekly or agenda view modes
 
 ---
 
